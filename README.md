@@ -1,6 +1,5 @@
 # Hello! Misleidy 👋
 
-### Welcome to my GitHub
 
 <div align="center">
 
