@@ -1,4 +1,4 @@
-# Hello! I´m Misleidy 👋
+# Hello! Misleidy 👋
 
 <!--
 **misleidymariel/misleidymariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
